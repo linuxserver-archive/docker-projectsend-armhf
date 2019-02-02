@@ -5,7 +5,7 @@
 [appurl]: http://www.projectsend.org
 [hub]: https://hub.docker.com/r/lsioarmhf/projectsend/
 
-THIS IMAGE IS DEPRECATED. PLEASE USE THE MULTI-ARCH IMAGES AT `linuxserver/projectsend
+THIS IMAGE IS DEPRECATED. PLEASE USE THE MULTI-ARCH IMAGES AT `linuxserver/projectsend`
 
 [![linuxserver.io](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/linuxserver_medium.png)][linuxserverurl]
 
